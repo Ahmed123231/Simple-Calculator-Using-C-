@@ -1,0 +1,3 @@
+make
+Calculator.exe
+pause
